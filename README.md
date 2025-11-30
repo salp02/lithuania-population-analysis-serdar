@@ -75,10 +75,12 @@ The project produces three main visualizations:
 
 
 2. **Yearly Absolute Population Change**  
-   → `lt_population_abs_change.png`
+   → <img width="990" height="590" alt="lt_population_abs_change" src="https://github.com/user-attachments/assets/8cbed6ec-450e-40c1-93da-9adfcba651a9" />
+
 
 3. **Yearly Percent Population Change**  
-   → `lt_population_pct_change.png`
+   → <img width="989" height="590" alt="lt_population_pct_change" src="https://github.com/user-attachments/assets/7fe7838a-459f-4235-a7cc-3fa6eb3a5ddf" />
+
 
 All plots are saved automatically in the project directory when running the notebook.
 
