@@ -71,7 +71,8 @@ The following operations were applied:
 The project produces three main visualizations:
 
 1. **Population Trend (1990–2024)**  
-   → `lt_population_trend.png`
+   → <img width="987" height="590" alt="lt_population_trend" src="https://github.com/user-attachments/assets/70b294b5-4f7b-4055-8cd8-385aef1c435d" />
+
 
 2. **Yearly Absolute Population Change**  
    → `lt_population_abs_change.png`
